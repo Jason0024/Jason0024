@@ -11,13 +11,13 @@
 
 ### :man_technologist: О себе :
 Я начинающий Веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap: Заканчиваю курс [Веб-разработчик](https://practicum.yandex.ru/web/) в Яндекс.Практикум
+- :zap: Закончил курс [Веб-разработчик](https://practicum.yandex.ru/web/) в Яндекс.Практикум
   
 - :telescope: Стараюсь писать чистый и понятный код
 
 - :seedling: Постоянно учусь и осваиваю новые технологии
 
-- :mailbox:Как со мной связаться?: telegram: [@Shamardin_Sergei](https://t.me/Shamardin_Sergei)
+- :mailbox:Как со мной связаться: telegram: [@Shamardin_Sergei](https://t.me/Shamardin_Sergei)
 
 ---
 
@@ -35,9 +35,6 @@
 </div>
 
 ---
-
-### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jason0024&theme=dark&background=252525)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason0024&layout=compact&theme=vision-friendly-dark&background=252525)](https://github.com/anuraghazra/github-readme-stats)
 
